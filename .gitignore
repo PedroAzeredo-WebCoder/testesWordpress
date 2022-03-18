@@ -1,0 +1,32 @@
+/node_modules
+/thema/assets/*
+/thema/assets
+/thema/assets/mix-manifest.json
+/wp-content/themes/thema/node_modules
+/wp-content/themes/thema/assets/*
+/wp-content/themes/thema/assets
+/wp-content/themes/thema/.phpunit.result.cache
+/wp-content/themes/thema/npm-debug.log
+/wp-content/themes/thema/yarn-error.log
+/wp-content/themes/thema/.idea
+/wp-content/themes/thema/.vscode
+assets/*
+/assets
+.phpunit.result.cache
+npm-debug.log
+yarn-error.log
+supervisord.log
+supervisord.pid
+mix-manifest.json
+/.idea
+.idea
+.vscode
+.DS_Store
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+.htaccess
+package-lock.json
+assets/mix-manifest.json
